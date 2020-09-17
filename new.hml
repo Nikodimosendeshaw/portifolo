@@ -1,0 +1,44 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nikodimos Endeshaw</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="icon" href="fl.ico">
+</head>
+<body class="top-container">
+    <div class="abc">
+    <img class="top-cloud" src="image/cloud.png" alt="cloud">
+    <h1>I am Nikodimos</h1>
+    <p>A full stack developer</p>
+    <img class="bottom-cloud" src="image/cloud.png" alt="cloud">
+    <img src="image/mountain.png" alt="mountain">
+    </div>
+<div class="middle-container">
+    <div class="profile">
+        <img src="https://t4.ftcdn.net/jpg/02/50/03/41/240_F_250034188_VLewE0c0WnVrChrwqebHdENl1uF8466P.jpg" alt="A programmer">
+        <h2>Hello.</h2>
+        <p>I have worked on the below lists</p>
+        <ul type="none">
+            <li>Full stack webdeveloper</li>
+            <li>Web application</li>
+            <li>Application for IOS, android, desktop</li>
+        </ul>
+    </div>
+    <hr>
+    <div class="contact-me">
+        <h2>Get In Touch</h2>
+        <h3>Cell phone: +251906644572</h3>
+        <h3>Email: nikodimos1111endeshaw@gmail.com</h3>
+        <a class="btn" href="mailto:nikodimos1111endeshaw@gmail.com">Email Me</a>
+    </div>
+</div>
+
+
+<div class="bottom-container">
+    <p>© 2020 Nikodimos Endeshaw.</p>
+</div>
+</body>
+</html>
